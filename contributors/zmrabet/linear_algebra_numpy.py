@@ -62,3 +62,4 @@ print(f"identity : \n{np.identity(3)}\n")
 """
 matrix1 = np.array([[1, 1, 1], [0, 0, 2], [2, 0, 3]])
 print(f"inverse :\n{np.linalg.inv(matrix1)}\n")
+
