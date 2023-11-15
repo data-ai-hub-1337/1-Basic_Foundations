@@ -4,3 +4,4 @@ LINEAR ALGEBRA :
   https://mml-book.github.io/book/mml-book.pdf
   https://www.kdnuggets.com/2022/07/linear-algebra-data-science.html
   https://numpy.org/doc/stable/reference/routines.linalg.html
+  https://numpy.org/doc/stable/reference/generated/numpy.cross.html
