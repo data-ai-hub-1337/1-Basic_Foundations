@@ -50,10 +50,10 @@ print(f"reshape : \n{matrix2.reshape(2,3)}\n")
 #Transpose
 print(f"transpose : \n{matrix1.T}\n")
 
-#identity
+#Identity
 print(f"identity : \n{np.identity(3)}\n")
 
-#inverse
+#Inverse
 """
   There are two things to take into consideration with matrix inverse:
   1) the order of the matrix and matrix inverse does not matter even though
@@ -62,4 +62,8 @@ print(f"identity : \n{np.identity(3)}\n")
 """
 matrix1 = np.array([[1, 1, 1], [0, 0, 2], [2, 0, 3]])
 print(f"inverse :\n{np.linalg.inv(matrix1)}\n")
+
+#Cross
+np.cross(matrix1, matrix2)
+print(f"cross :\n{np.cross(matrix1, matrix2)}\n")
 
