@@ -5,3 +5,6 @@ LINEAR ALGEBRA :
   https://www.kdnuggets.com/2022/07/linear-algebra-data-science.html
   https://numpy.org/doc/stable/reference/routines.linalg.html
   https://numpy.org/doc/stable/reference/generated/numpy.cross.html
+
+  - SVD :
+https://zerobone.net/blog/cs/svd-image-compression/
