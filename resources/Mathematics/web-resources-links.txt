@@ -1,4 +1,5 @@
 INTRODUCTION :
+  https://www.simplilearn.com/linear-algebra-for-data-science-article
   https://medium.com/@ambika199820/basic-concepts-of-linear-algebra-for-data-science-and-machine-learning-1e2ebdc56521
 
 LINEAR ALGEBRA MATRIX :
