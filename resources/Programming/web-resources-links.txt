@@ -1,3 +1,7 @@
 NUMPY :
   https://numpy.org/doc/stable/reference/routines.linalg.html
   https://numpy.org/doc/stable/reference/generated/numpy.cross.html
+
+PANDAS :
+  https://pandas.pydata.org/
+  https://pandas.pydata.org/docs/
