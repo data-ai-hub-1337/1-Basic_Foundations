@@ -1,10 +1,13 @@
-LINEAR ALGEBRA :
+INTRODUCTION :
+  https://medium.com/@ambika199820/basic-concepts-of-linear-algebra-for-data-science-and-machine-learning-1e2ebdc56521
 
+LINEAR ALGEBRA MATRIX :
   https://www.visual-design.net/post/linear-algebra-for-machine-learning
   https://mml-book.github.io/book/mml-book.pdf
   https://www.kdnuggets.com/2022/07/linear-algebra-data-science.html
   https://numpy.org/doc/stable/reference/routines.linalg.html
   https://numpy.org/doc/stable/reference/generated/numpy.cross.html
 
-  - SVD :
-https://zerobone.net/blog/cs/svd-image-compression/
+SINGULAR VALUE DECOMPOSITION :
+  https://medium.com/@abhishekmishra13k/beginners-guide-to-singular-value-decomposition-svd-definition-properties-applications-and-38882ba61e91
+  https://zerobone.net/blog/cs/svd-image-compression/
